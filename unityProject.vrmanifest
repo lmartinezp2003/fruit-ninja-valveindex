@@ -5,7 +5,7 @@
       "app_key": "application.generated.unity.l.martinezp.exe",
       "launch_type": "url",
       "url": "steam://launch/",
-      "action_manifest_path": "D:\\s.tangarife\\l.martinezp\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "action_manifest_path": "C:\\Users\\imagine\\Documents\\fruit-ninja-valveindex\\Assets\\StreamingAssets\\SteamVR\\actions.json",
       "strings": {
         "en_us": {
           "name": "l.martinezp [Testing]"
